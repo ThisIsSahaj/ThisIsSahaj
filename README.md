@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Here you'll find just me and my uncharted code </h3>
 
 <img align="right" alt="Code Penguin" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVyOG1vd3gzeXJicDBjamFsN3U0MW51eTBhMm12YWI3aDVpenowdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400">
 
