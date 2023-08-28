@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding Penguin" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissahaj&label=Profile%20views&color=0e75b6&style=flat" alt="thisissahaj" /> </p>
 
