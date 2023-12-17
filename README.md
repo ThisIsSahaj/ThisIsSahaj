@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissahaj&label=Profile%20views&color=0e75b6&style=flat" alt="thisissahaj" /> </p>
 
-- 🔭 I’m currently working on [The Cyborgs](https://thecyborgs.vercel.app/
+- 🔭 I’m currently working on [The Cyborgs](https://thecyborgs.vercel.app/)
 
 - 🌐 A good project of mine [AnCrypt](https://ancrypt.onrender.com/)
 
