@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React, Firebase**
 
-- 🛍️ Business [https://haathbazaar.in/](https://haathbazaar.in/)
-
 - 💬 Ask me about **Basic Frontend**
 
 - 📫 How to reach me **s21sahaj@gmail.com**
@@ -22,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/this-is-sahaj-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="this-is-sahaj-jain" height="30" width="40" /></a>
-<a href="https://instagram.com/_sahaj_jain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahaj_jain_" height="30" width="40" /></a>
+<a href="https://instagram.com/sahajjain21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sahaj_jain_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
