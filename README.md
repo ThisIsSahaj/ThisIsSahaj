@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Firebase**
 
-- 💬 Ask me about **Basic Frontend**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **s21sahaj@gmail.com**
 
